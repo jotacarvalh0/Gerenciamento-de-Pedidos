@@ -54,7 +54,7 @@ Clonando o Repositório:
 Clone o repositório para sua máquina local usando:
 bash
 Copy code
-git clone <URL_DO_REPOSITÓRIO>
+git clone https://github.com/jotacarvalh0/Gerenciamento-de-Pedidos
 Instalando Dependências:
 
 Navegue até o diretório do projeto e execute:
